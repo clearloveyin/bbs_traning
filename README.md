@@ -1,22 +1,5 @@
 # Flask BBS项目
 
-新入职后端工程师所需要完成的training项目。
-
-
-## 开始
-
-1. git clone 这个项目
-```
-    git clone git@e.coding.net:mzteam/backend-training.git
-```
-
-2. 创建新分支
-```
-    git checkout -b 你的名字-feature-training
-```
-
-3. coding
-
 
 ## 部署
 使用的[heroku](https://www.heroku.com/)来进行服务部署。
@@ -56,10 +39,6 @@ heroku run python manage.py db upgrade --app application_name
 ```
 
 更详情的命令，见[官网](https://devcenter.heroku.com/articles/getting-started-with-python?singlepage=true)
-
-## 例子
-Flask的[Demo](https://mzteam.coding.net/p/books-store/d/books-store/git)，已经在heroku上部署成功，有需要可以参考一下。
-
 
 ## 功能点
 
